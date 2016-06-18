@@ -11,4 +11,4 @@ mkdir -p /config/{nginx/site-confs,www,log/nginx,keys}
 cp /config/nginx/nginx-fpm.conf /etc/php/php-fpm.conf
 
 # permissions
-chown -R mab:mab /config
+chown -R abc:abc /config
